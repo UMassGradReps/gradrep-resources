@@ -1,0 +1,84 @@
+Hi new grad reps! :)
+
+Below is the email that we customarily forward to all new grad reps.  It includes all of the information that you need to know about your new responsibilities.
+
+SAVE THIS EMAIL TO FORWARD TO NEW GRAD REPS IN THE FALL.
+
+You will also need to send an SSH public key (PLEASE DO NOT SEND ME YOUR PRIVATE KEY) to gradrep@cs.umass.edu.  Instructions are below.
+
+New grad reps: you should receive this email twice.  One, sent directly to your CS account, and another forwarded via the gradrep@cs account.  If you do not get two emails, please let me know!
+
+Thank you for volunteering and congratulations!
+
+-- Dan
+
+______________________________________________________________
+
+*First, (recycled) random stuff you should know (this was passed to us
+from the previous grad reps):
+
+-The GradRep manual is here:
+         http://wiki.cs.umass.edu/bin/view/Grads/GradRepManual
+
+-Please send gradrep@cs.umass.edu your public ssh key. You may already have one
+in your home directory: ~/.ssh/id_dsa.pub
+(If not, you can generate a new one with `ssh-keygen -t dsa` or ask us
+for help) We'll then add you to the keys list on loki so you can ssh
+gradrep@loki without a password.
+
+-Save this information because we always recycle it (send to the new reps).
+
+*For the loki grad account
+- Edit the .signature file to remove James, Amanda, and Jay and add Jesse, Emma, and Eva
+- learn how to use pine to send email from the grad account (ask us if you need a lesson)
+- remove James, Amanda, and Jay .procmailrc
+- remove James, Amanda, and Jay .ssh/authorized_keys2 and add Jesse, Emma, and Eva
+
+*Faculty Meetings
+Faculty meeting are usually Wednesday from 3:30-5:00.  If
+possible, we all try to attend these.  Typically the grad reps
+sit in the back corner behind the pillar near where pizza normally
+goes.  At the first meeting, James Allan will want to introduce the new reps.
+
+- REMEMBER to send James Allan and Leeanne an email announcing the new gradreps. Note that the easiest way to keep up with the faculty meeting schedule is to subscribe to the department calendar (https://www.cs.umass.edu/deptcal.ics)
+
+* Faculty Research Seminar
+In addition to the large number of faculty candidates, we also help
+organize the faculty research seminar.  This typically only occurs during the Fall since faculty hiring monopolizes the time and resources of a lot of faculty and gradreps during the Spring.
+
+*Dealing with Spam
+A lot of spam goes directly to the grad rep account and to the social
+list, which gradreps are owners of. Since you will be forwarding the
+gradrep email to your personal email accounts, all that spam will hit
+your personal inboxes. We had the CSCF set up some spam filters, but
+you'll need to do more things yourself. I've set up two filters in
+Thunderbird and they seem to be working quite well. One is filtering
+messages whose subject begins with "[QUAR]" and the other is filtering
+messages whose sender contains "owner-social". You can set up similar
+filters in other mail clients.
+
+*Faculty hiring experience:
+- the interview questions in the grad rep manual
+(https://wiki.cs.umass.edu/bin/view/Grads/GradRepManual#Faculty_Candidates)
+are pretty handy for the meetings with the faculty candidates.
+- we found it pretty useful to have a shared document where we kept
+notes on the talks the candidates gave and on their meeting with the
+grad students. Since there are so many candidates, it is easy to forget
+a lot of the details or mix up who said what, so having this document
+helped us a lot in the end when we were making our recommendations about
+hiring. I would recommend keeping that document in a somewhat protected
+place (e.g., the grad rep account on loki) since the information you
+write there will be confidential.
+- try to solicit feedback about the faculty candidates from the grad
+students and use this feedback when making the hiring recommendations to
+the faculty.
+
+That is all the information that I can think of at the moment.  Can
+anyone else think of anything I forgot?  Let us know if you have any
+questions!
+
+*Survey
+It has become a tradition that grad reps do a survey once a year or
+so. We did this last semester *but we have not had the opportunity to present non-salary-related results to the faculty yet*.  This should be submitted as an agenda item for an upcoming faculty meeting.
+
+James, Amanda, and Jay will stay on the list for a while, until we're sure we have everything figured out.
