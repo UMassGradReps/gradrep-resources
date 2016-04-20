@@ -1,0 +1,5 @@
+[%day%] [%time_of_day%] ([%month%]/[%day%]), we have a student meeting with [%candidate_first%] [%candidate_last%] at [%time%] in [%location%]. These meetings are generally quite informal and NON-TECHNICAL. They are a great opportunity to get to know the speaker better, and do not require you to be an expert in their field. You should come!
+
+[%candidate_first%] [%candidate_last%] works on [%topics%].
+
+[%candidate_website%]
