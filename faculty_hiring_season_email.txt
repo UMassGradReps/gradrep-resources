@@ -23,7 +23,10 @@ the faculty during faculty meetings. We will also use your thoughts to
 inform how we vote for or against candidates. Sometimes, we'll use your
 feedback to lobby the faculty into changing their opinions of candidates.
 
+HOW TO IDENTIFY CANDIDATE TALKS
+
+Because we have to keep the identity of our faculty candidates confidential, the widespread announcements do not directly identify candidate talks. However, I will share with you the secret algorithm:
+
+If the talk is a 4PM **Seminar** AND the talk isn't described on the department calendar (https://www.cs.umass.edu/calendar) then that talk is a candidate talk! (Also, you will notice delicious treats in the atrium before the talk.)
+
 Hope to see you at the talks and the student meetings!
-
-
-The first talks are this week:
