@@ -1,0 +1,2 @@
+MAILTO=gradrep@cs.umass.edu
+0 0 20 1 * ~/gradrep-resources/faculty_hiring_email.sh > /dev/null
